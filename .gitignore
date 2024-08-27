@@ -1,0 +1,18 @@
+# Flutter
+*.dart_tool/
+*.pub/
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+*.xcworkspace/
+*.xcodeproj/
+.idea/
+*.iml
+
+# FastAPI
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+

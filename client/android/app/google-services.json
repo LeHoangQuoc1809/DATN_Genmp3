@@ -1,0 +1,9 @@
+{
+  "installed": {
+    "client_id": "251377553162-l2vooapv2eq6b2t60gka1g0b1j0hgadi.apps.googleusercontent.com",
+    "project_id": "genmp3-e64c3",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs"
+  }
+}

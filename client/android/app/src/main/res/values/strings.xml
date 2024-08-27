@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Genmp3</string>
+    <string name="facebook_app_id">274870602346594</string>
+    <string name="fb_login_protocol_scheme">fb274870602346594</string>
+    <string name="facebook_client_token">c11f5efd5e8d11db746ec1bf07d502bc</string>
+</resources>
